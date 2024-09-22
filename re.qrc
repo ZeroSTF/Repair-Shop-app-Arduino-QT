@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>unnamed.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>243517325_2798752573756242_8721034459668640659_n.png</file>
+    </qresource>
+</RCC>
